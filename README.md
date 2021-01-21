@@ -1,6 +1,8 @@
 # reproducer-doctrine-messenger
 
-Install the symfony binary first.
+Reproducer for https://github.com/symfony/symfony/issues/39928
+
+:exclamation: Install the symfony binary first :exclamation:
 
 ```bash
 git clone git@github.com:OskarStark/reproducer-doctrine-messenger.git && \
