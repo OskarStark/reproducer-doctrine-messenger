@@ -6,5 +6,5 @@ services:
         environment:
             POSTGRES_USER: main
             POSTGRES_PASSWORD: main
-            POSTGRES_DB: main
+            POSTGRES_DB: doctrine_messenger
         ports: [5432]
